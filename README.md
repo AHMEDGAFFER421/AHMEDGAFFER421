@@ -40,6 +40,6 @@ I enjoy working across the analytics process — from data cleaning and transfor
 
 ### 📫 Connect With Me
 
+- **LinkedIn:** [Ahmed Gaffer](https://www.linkedin.com/in/ahmedgaffer/)
 - **GitHub:** [AHMEDGAFFER421](https://github.com/AHMEDGAFFER421)
 - **Email:** ahmeddesokygaffer@gmail.com
-
